@@ -1,9 +1,9 @@
-# Phase4_HPC_MC_Sweeps
+# Phase4 HPC MC Sweeps
 
 **Notebook:** `Phase4_HPC_MC_Sweeps.ipynb`
 
 ## Description
-Phase 4: prepares HPC sweeps across α, entropy curvature strength, and ghost coherence density.
+Phase 4: Prepare HPC sweeps across α, entropy curvature strength, and ghost coherence density.
 
 ## Key Outputs
 - Final field visualizations (modulus, phase, ghost, vacuum)
