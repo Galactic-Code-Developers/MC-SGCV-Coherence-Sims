@@ -6,9 +6,9 @@ This is the **core simulation** of the MC–SGCV framework. It models the time e
 
 - Tracks the modulus of ψₛ★ as entropy grows
 - Simulates directional coherence loss:
-  \[
-  \partial_t C_{\mu\nu}(x,t) < 0
-  \]
+
+  $\partial_t C_{\mu\nu}(x,t) < 0$
+
 - Introduces entropy spikes and curvature feedback
 - Outputs ghost coherence, vacuum noise, and geometric curvature gain
 
@@ -28,7 +28,7 @@ This notebook forms the backbone of the MC–SGCV project, illustrating how cohe
 ## Highlights
 
 - Uses dodecahedral-inspired symmetry
-- Sets up curvature (Rμν) and coherence (Cμν) fields
+- Sets up curvature (Rμν) and coherence $C_{\mu\nu}$ fields
 - Serves as the geometric substrate for all downstream simulations
 
 ## Purpose
@@ -38,18 +38,18 @@ Builds a metaphysical and topological starting point that reflects symmetry cons
 ## Outputs
 
 - Initial 2D lattice field arrays
-- Static curvature map (R_field)
+- Static curvature map $R_field $
 
 # Phase2 MC Tensor Evolution
 
-**Phase 2** simulates the evolution of the coherence tensor \( C_{\mu\nu}(x,t) \) under directional entropy growth \( S(x,t) \), in alignment with the MC model.
+**Phase 2** simulates the evolution of the coherence tensor $C_{\mu\nu}(x,t) $ under directional entropy growth $ S(x,t) $, in alignment with the MC model.
 
 ## Highlights
 
 - Evolves Cμν over time using:
-  \[
-  \partial_t C_{\mu\nu}(x,t) = -\alpha \cdot S(x,t) \cdot C_{\mu\nu}(x,t)
-  \]
+
+  $\partial_t C_{\mu\nu}(x,t) = -\alpha \cdot S(x,t) \cdot C_{\mu\nu}(x,t)$
+
 - Dynamically updates the entropy field with nonlinear feedback
 - Tracks coherence collapse and its spatial signature
 
@@ -59,6 +59,6 @@ Establishes time evolution equations and prepares Cμν snapshots for later inte
 
 ## Outputs
 
-- Tensor field slices of Cμν
+- Tensor field slices of $C_{\mu\nu}$
 - Entropy-coherence coupling diagnostics
 
