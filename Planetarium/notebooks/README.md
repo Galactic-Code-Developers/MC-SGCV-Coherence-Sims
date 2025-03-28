@@ -1,4 +1,4 @@
-# MC_SGCV_Coherence_Simulation.ipynb
+# Core
 
 This is the **core simulation** of the MC–SGCV framework. It models the time evolution of the coherence field ψₛ★ and its energetic decay across a 2D spacetime lattice.
 
@@ -21,7 +21,7 @@ This notebook forms the backbone of the MC–SGCV project, illustrating how cohe
 - MP4 animations of ψₛ★ decay
 - PNG snapshots of key field states
 
-# Phase1_DLSFH_Lattice_MC.ipynb
+# Phase1 DLSFH Lattice MC
 
 **Phase 1**: Initializes a structured lattice using principles from the Dodecahedral Linear String Field Hypothesis (DLSFH). This lattice seeds the initial geometry for ψₛ★ coherence evolution.
 
@@ -40,7 +40,7 @@ Builds a metaphysical and topological starting point that reflects symmetry cons
 - Initial 2D lattice field arrays
 - Static curvature map (R_field)
 
-# Phase2_MC_Tensor_Evolution.ipynb
+# Phase2 MC Tensor Evolution
 
 **Phase 2** simulates the evolution of the coherence tensor \( C_{\mu\nu}(x,t) \) under directional entropy growth \( S(x,t) \), in alignment with the MC model.
 
