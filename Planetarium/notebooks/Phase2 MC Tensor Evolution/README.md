@@ -1,9 +1,9 @@
-# Phase2_MC_Tensor_Evolution
+# Phase2 MC_Tensor Evolution
 
 **Notebook:** `Phase2_MC_Tensor_Evolution.ipynb`
 
 ## Description
-Phase 2: evolves coherence tensor Cμν(x,t) under entropy growth and curvature feedback.
+Phase 2: Evolve the coherence tensor Cμν(x,t) under entropy growth and curvature feedback.
 
 ## Key Outputs
 - Final field visualizations (modulus, phase, ghost, vacuum)
