@@ -15,7 +15,7 @@ Using symbolic tensor fields and 2D lattice simulations, these notebooks visuali
 
 ## 📁 Structure
 
-Each notebook lives in its own subfolder under `/notebooks/`, with its own `README.md`:
+Each notebook lives in its subfolder under `/notebooks/`, with its own `README.md`:
 
 - `alpha_entropy_comparison_colab.ipynb`: α-driven entropy variation
 - `MC_SGCV_Coherence_Simulation.ipynb`: primary coherence decay model
