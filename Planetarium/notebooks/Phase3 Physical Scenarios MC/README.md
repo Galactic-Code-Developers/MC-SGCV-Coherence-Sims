@@ -1,4 +1,4 @@
-# Phase3_Physical_Scenarios_MC
+# Phase3 Physical Scenarios MC
 
 **Notebook:** `Phase3_Physical_Scenarios_MC.ipynb`
 
