@@ -28,7 +28,7 @@ This notebook forms the backbone of the MC–SGCV project, illustrating how cohe
 ## Highlights
 
 - Uses dodecahedral-inspired symmetry
-- Sets up curvature ($R{\mu\nu}$) and coherence ($C_{\mu\nu}$) fields
+- Sets up curvature ($R_{\mu\nu}$) and coherence ($C_{\mu\nu}$) fields
 - Serves as the geometric substrate for all downstream simulations
 
 ## Purpose
@@ -59,6 +59,6 @@ Establishes time evolution equations and prepares Cμν snapshots for later inte
 
 ## Outputs
 
-- Tensor field slices of $C_{\mu\nu}$
+- Tensor field slices of ($C_{\mu\nu}$)
 - Entropy-coherence coupling diagnostics
 
