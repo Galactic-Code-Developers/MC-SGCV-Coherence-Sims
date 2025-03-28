@@ -1,0 +1,17 @@
+# Phase2_MC_Tensor_Evolution
+
+**Notebook:** `Phase2_MC_Tensor_Evolution.ipynb`
+
+## Description
+Phase 2: evolves coherence tensor Cμν(x,t) under entropy growth and curvature feedback.
+
+## Key Outputs
+- Final field visualizations (modulus, phase, ghost, vacuum)
+- Optional video exports (MP4)
+
+## Requirements
+- Python 3.10+
+- NumPy, Matplotlib, SymPy
+
+## Citation
+Refer to the 2025 paper: *Converted ψₛ★ Energy and its Persistence in MC–SGCV Thermodynamic Models*.
