@@ -1,9 +1,9 @@
-# Phase1_DLSFH_Lattice_MC
+# Phase1 DLSFH Lattice MC
 
 **Notebook:** `Phase1_DLSFH_Lattice_MC.ipynb`
 
 ## Description
-Phase 1: builds baseline dodecahedral lattice with initial coherence field seeding.
+Phase 1: Build baseline dodecahedral lattice with initial coherence field seeding.
 
 ## Key Outputs
 - Final field visualizations (modulus, phase, ghost, vacuum)
