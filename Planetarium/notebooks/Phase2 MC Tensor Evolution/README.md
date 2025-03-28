@@ -1,4 +1,4 @@
-# Phase2 MC_Tensor Evolution
+# Phase2 MC Tensor Evolution
 
 **Notebook:** `Phase2_MC_Tensor_Evolution.ipynb`
 
