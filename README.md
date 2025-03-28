@@ -69,4 +69,4 @@ MIT License – open access for researchers and theorists across quantum foundat
 
 ---
 
-For questions or contributions, contact: [Galactic-Code-Developers](mailto:galactic@coherence.dev)
+For questions or contributions, contact: [Galactic-Code-Developers](mailto:galactic@valamontes.com)
