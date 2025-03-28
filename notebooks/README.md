@@ -29,7 +29,7 @@ Welcome to the central simulation repository for the **Multifaceted Coherence (M
 |-------|----------|---------|
 | Core | `MC_SGCV_Coherence_Simulation.ipynb` | Central coherence decay and field evolution model |
 | Phase 1 | `Phase1_DLSFH_Lattice_MC.ipynb` | Lattice initialization (dodecahedral/dynamic) |
-| Phase 2 | `Phase2_MC_Tensor_Evolution.ipynb` | Tensor evolution: $$ \partial_t C_{\mu\nu}(x,t) = -\alpha \cdot S(x,t) \cdot C_{\mu\nu}(x,t) $$ |
+| Phase 2 | `Phase2_MC_Tensor_Evolution.ipynb` | Tensor evolution: $\partial_t C_{\mu\nu}(x,t) = -\alpha \cdot S(x,t) \cdot C_{\mu\nu}(x,t) $ |
 | Phase 3 | `Phase3_Physical_Scenarios_MC.ipynb` | Collapse scenarios: BH analogues, decoherence spikes |
 | Phase 4 | `Phase4_HPC_MC_Sweeps.ipynb` | HPC-ready parameter sweeps |
 
