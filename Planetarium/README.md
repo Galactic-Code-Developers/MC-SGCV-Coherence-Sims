@@ -39,7 +39,7 @@ Extended models include animated phase wrapping, SGCV-PsiStar conversion layers,
 
 ## 📖 Related Work
 
-- Valamontes, A. (2025). *Converted ψₛ★ Energy and its Persistence in MC–SGCV Thermodynamic Models*.
+- Valamontes, A. (2025). [*Converted ψₛ★ Energy and its Persistence in MC–SGCV Thermodynamic Models*.](http://dx.doi.org/10.13140/RG.2.2.35208.12807)
 - Markoulakis, E. (2024). *Superluminal Graviton Condensate Vacuum*.
 - Planck Collaboration (2020), Penrose (2021), Einstein (1935)
 
@@ -64,4 +64,4 @@ MIT License – open access for researchers and theorists across quantum foundat
 
 ## 🔗 Contact
 
-Developed by the Galactic Code Developers. For contributions or simulation extensions, contact: contact: [Galactic-Code-Developers](mailto:galactic@valamontes.com)
+Developed by the Galactic Code Developers. For contributions or simulation extensions, contact: [Galactic-Code-Developers](mailto:galactic@valamontes.com)
