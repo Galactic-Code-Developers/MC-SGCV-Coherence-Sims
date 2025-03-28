@@ -1,4 +1,4 @@
-# MC_SGCV_Coherence_Simulation
+# MC SGCV Coherence Simulation
 
 **Notebook:** `MC_SGCV_Coherence_Simulation.ipynb`
 
