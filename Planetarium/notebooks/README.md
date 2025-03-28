@@ -42,7 +42,7 @@ Builds a metaphysical and topological starting point that reflects symmetry cons
 
 # Phase2 MC Tensor Evolution
 
-**Phase 2** simulates the evolution of the coherence tensor ($C_{\mu\nu}(x,t)$) under directional entropy growth ($\S(x,t)$), in alignment with the MC model.
+**Phase 2** simulates the evolution of the coherence tensor ($C_{\mu\nu}(x,t)$) under directional entropy growth ($S(x,t)$), in alignment with the MC model.
 
 ## Highlights
 
