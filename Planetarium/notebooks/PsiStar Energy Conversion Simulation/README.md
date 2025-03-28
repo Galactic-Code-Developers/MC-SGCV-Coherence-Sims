@@ -1,4 +1,4 @@
-# PsiStar_Energy_Conversion_Simulation
+# PsiStar Energy Conversion Simulation
 
 **Notebook:** `PsiStar_Energy_Conversion_Simulation.ipynb`
 
