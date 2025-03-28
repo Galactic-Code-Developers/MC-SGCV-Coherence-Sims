@@ -47,8 +47,8 @@ All simulations are based on the following published or in-preparation models:
 
 ## 📖 Related Papers
 
-- Valamontes, A. (2025). *Converted ψₛ★ Energy and its Persistence in MC–SGCV Thermodynamic Models*.
-- Markoulakis, E. (2024). *Superluminal Graviton Condensate Vacuum*.
+- Valamontes, A. (2025). [*Converted ψₛ★ Energy and its Persistence in MC–SGCV Thermodynamic Models*.](http://dx.doi.org/10.13140/RG.2.2.35208.12807)
+- Markoulakis, E. (2024). [*Superluminal Graviton Condensate Vacuum*.](https://www.sciencepubco.com/index.php/IJPR/article/view/32781)
 - Planck Collaboration (2020), Penrose (2021), Einstein (1935)
 
 ## 🔗 Repository Goals
