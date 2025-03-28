@@ -28,7 +28,7 @@ This notebook forms the backbone of the MC–SGCV project, illustrating how cohe
 ## Highlights
 
 - Uses dodecahedral-inspired symmetry
-- Sets up curvature (Rμν) and coherence $C_{\mu\nu}$ fields
+- Sets up curvature ($R{\mu\nu}$) and coherence ($C_{\mu\nu}$) fields
 - Serves as the geometric substrate for all downstream simulations
 
 ## Purpose
@@ -38,11 +38,11 @@ Builds a metaphysical and topological starting point that reflects symmetry cons
 ## Outputs
 
 - Initial 2D lattice field arrays
-- Static curvature map $\R_{field}$
+- Static curvature map $R_{field}$
 
 # Phase2 MC Tensor Evolution
 
-**Phase 2** simulates the evolution of the coherence tensor $C_{\mu\nu}(x,t)$ under directional entropy growth $\S(x,t)$, in alignment with the MC model.
+**Phase 2** simulates the evolution of the coherence tensor ($C_{\mu\nu}(x,t)$) under directional entropy growth ($\S(x,t)$), in alignment with the MC model.
 
 ## Highlights
 
