@@ -55,7 +55,7 @@ Builds a metaphysical and topological starting point that reflects symmetry cons
 
 ## Purpose
 
-Establishes time evolution equations and prepares Cμν snapshots for later integration with energy transformation models.
+Establishes time evolution equations and prepares $C_{\mu\nu}$ snapshots for later integration with energy transformation models.
 
 ## Outputs
 
